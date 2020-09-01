@@ -1,6 +1,6 @@
 # object_detection
 
-#System requirement:
+## System requirement:
 
 1. Windows 10 64-bit
 2. CPU - intel corei5 7300HQ or higher
@@ -14,7 +14,7 @@
 10. nvidia cudnn - 10.0 or higher
 
 
-#To run the Object_detection_webcam1.py file
+## To run the Object_detection_webcam1.py file
 
 1. open command promt(as administrator)
 2. create a tensorflow environment (i.e. conda create -n tensorflow pip)
